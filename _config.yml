@@ -1,0 +1,21 @@
+# Site settings
+title: Aditya Rajneesh Singh
+email: adityarsingh17@gmail.com
+description: Portfolio website of Mr. Aditya Rajneesh Singh.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Social settings
+500px_url:
+facebook_url: 
+github_url: https://github.com/AdityaSingh17
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/iaditya17/
+linkedin_url: https://www.linkedin.com/in/adityarajneeshsingh/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/AdityaSingh_17
+
+# Build settings
+markdown: kramdown
